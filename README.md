@@ -18,4 +18,4 @@
 
 ![snake gif](https://github.com/zPaulof7/zPaulof7/blob/output/github-contribution-grid-snake.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=posepaulofsf&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepaulofsf&layout=compact)
