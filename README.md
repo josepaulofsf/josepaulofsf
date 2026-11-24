@@ -6,7 +6,7 @@
     <a href="mailto:zpaulof3344@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <!-- Dica: Adicione seu LinkedIn aqui seguindo o mesmo padrão -->
+
     <!-- <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a> -->
@@ -36,11 +36,11 @@
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zPaulof7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPaulof7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepaulofsf&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zPaulof7/zPaulof7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/josepaulofsf/josepaulofsf/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
